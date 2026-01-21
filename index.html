@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C to F Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h2>C TO F</h2>
+
+    <div class="inputdiv">
+        <input type="number" id="C" placeholder="Enter value in °C">
+    </div>
+
+    <div>
+        <button onclick="convert()">Convert</button>
+    </div>
+
+    <div class="resultdiv">
+        <h3 id="result"></h3>
+    </div>
+
+    <script>
+        function convert() {
+            var C = document.getElementById("C").value;
+            var F = (C * 9/5) + 32;
+
+            document.getElementById("result").innerHTML =
+                C + "°C is equal to " + F.toFixed(2) + "°F";
+        }
+    </script>
+
+</body>
+</html>
