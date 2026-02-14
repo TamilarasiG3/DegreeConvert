@@ -3,7 +3,7 @@
 A simple web application to convert temperature between Celsius (°C) and Fahrenheit (°F).
 This solves a basic day-to-day problem faced by students, travelers, and anyone reading weather or science data.
 
-🚀 Problem Statement
+# 🚀 Problem Statement
 
 Different countries use different temperature units:
 
@@ -14,13 +14,13 @@ Fahrenheit (°F) – used mainly in the USA
 Manual conversion is inconvenient and error-prone.
 This tool provides instant and accurate conversion between Celsius and Fahrenheit.
 
-✨ Features
+# ✨ Features
 
 🔁 Convert Celsius → Fahrenheit
 
 🔁 Convert Fahrenheit → Celsius
 
-⚡ Instant results
+# ⚡ Instant results
 
 🧮 Accurate calculations
 
@@ -28,7 +28,7 @@ This tool provides instant and accurate conversion between Celsius and Fahrenhei
 
 🧑‍🎓 Beginner-friendly project
 
-🧠 Conversion Formulas
+# 🧠 Conversion Formulas
 
 Celsius to Fahrenheit
 
@@ -39,7 +39,7 @@ Fahrenheit to Celsius
 
 °C = (°F − 32) × 5/9
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 HTML
 
@@ -49,23 +49,18 @@ JavaScript
 
 (No backend required)
 
-📂 Project Structure
+# 📂 Project Structure
 Celsius-Fahrenheit-Converter/
 │── index.html
 │── style.css
 │── script.js
 │── README.md
 
-▶️ How to Run
-
-Clone the repository
-
-git clone https://github.com/your-username/Celsius-Fahrenheit-Converter.git
 
 
 Open index.html in any browser
 
-🎯 Use Cases
+# 🎯 Use Cases
 
 Weather temperature conversion
 
@@ -77,7 +72,7 @@ Daily reference
 
 Beginner JavaScript practice
 
-🌱 Future Enhancements
+# 🌱 Future Enhancements
 
 🔄 Auto-detect input unit
 
@@ -87,7 +82,7 @@ Beginner JavaScript practice
 
 🌍 Weather API integration
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
 
