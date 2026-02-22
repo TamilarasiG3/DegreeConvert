@@ -1,4 +1,4 @@
-# 🌡️ Celsius–Fahrenheit Converter
+## 🌡️ Celsius–Fahrenheit Converter
 
 A simple web application to convert temperature between Celsius (°C) and Fahrenheit (°F).
 This solves a basic day-to-day problem faced by students, travelers, and anyone reading weather or science data.
@@ -41,11 +41,11 @@ Fahrenheit to Celsius
 
 # 🛠️ Tech Stack
 
-HTML
+ **HTML**
 
-CSS
+**CSS**
 
-JavaScript
+**JavaScript**
 
 (No backend required)
 
