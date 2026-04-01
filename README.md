@@ -89,3 +89,6 @@ This project is licensed under the MIT License.
 ## 🙌 Acknowledgement
 
 Built to simplify everyday temperature conversion 🌡️
+
+## Author
+## Tamilarasi G
